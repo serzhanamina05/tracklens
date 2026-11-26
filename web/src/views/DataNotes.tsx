@@ -149,7 +149,7 @@ export default function DataNotes() {
         </p>
         <p>
           The supplied CSV matches the schema, row count and checked records of the{' '}
-          <a href="https://huggingface.co/datasets/maharshipandya/spotify-tracks-dataset">Spotify Tracks Dataset published by Maharshi Pandya</a>.
+          <a href="https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset/data">Spotify Tracks Dataset published by Maharshi Pandya</a>.
           Spotify is the source of the underlying metadata and audio features. Dataset fingerprint: SHA-256 {meta.data.dataSha256.slice(0, 12)}…
         </p>
       </section>

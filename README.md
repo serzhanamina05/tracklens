@@ -156,7 +156,7 @@ Use **Compare Genres** to split any two labels into three disjoint cohorts. See 
 
 ## Attribution
 
-Data: the supplied CSV matches the schema, row count and checked records of the [Spotify Tracks Dataset published by Maharshi Pandya](https://huggingface.co/datasets/maharshipandya/spotify-tracks-dataset). Track metadata and audio features were originally retrieved from Spotify's Web API. TrackLens is not affiliated with or endorsed by Spotify. The MIT licence in `LICENSE` covers the code only.
+Data: the supplied CSV matches the schema, row count and checked records of the [Spotify Tracks Dataset published by Maharshi Pandya](https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset/data). Track metadata and audio features were originally retrieved from Spotify's Web API. TrackLens is not affiliated with or endorsed by Spotify. The MIT licence in `LICENSE` covers the code only.
 
 ## CV bullet
 
