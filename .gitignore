@@ -1,0 +1,21 @@
+# Raw and restricted data never enter Git
+data/raw/
+web/local-data/
+web/dist-full/
+*.csv
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Node
+node_modules/
+web/dist/
+*.tsbuildinfo
+
+# OS / editor
+.DS_Store
+.env
+.env.*

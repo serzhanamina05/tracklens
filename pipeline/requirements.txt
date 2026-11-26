@@ -1,0 +1,5 @@
+# Direct dependencies for the offline pipeline (Python 3.14).
+pandas==3.1.1
+numpy==2.5.5
+scikit-learn==1.9.1
+pytest==9.2.0
