@@ -1,6 +1,6 @@
 # TrackLens
 
-[![CI and GitHub Pages](https://github.com/abu166/tracklens/actions/workflows/pages.yml/badge.svg?branch=main)](https://github.com/abu166/tracklens/actions/workflows/pages.yml)
+[![CI and GitHub Pages](https://github.com/serzhanamina05/tracklens/actions/workflows/pages.yml/badge.svg?branch=main)](https://github.com/serzhanamina05/tracklens/actions/workflows/pages.yml)
 
 An interactive music-analytics dashboard built on a 114,000-row track dataset. It answers three questions:
 
@@ -8,7 +8,7 @@ An interactive music-analytics dashboard built on a 114,000-row track dataset. I
 2. **Which tracks sound similar** based on their measured audio features?
 3. **How well can audio features estimate** the popularity score in this dataset? (Answer: a little better than a constant baseline.)
 
-**Live demo:** https://abu166.github.io/tracklens/ (public aggregate edition)
+**Live demo:** https://serzhanamina05.github.io/tracklens/ (public aggregate edition)
 
 ![TrackLens overview: filters, summary cards, findings, popularity histogram and genre feature comparison](docs/screenshot.png)
 
@@ -76,7 +76,7 @@ The selected model's trees, feature order, validation bounds and 0–100 clippin
 Requirements: Python 3.14 and Node 22 or newer.
 
 ```bash
-git clone https://github.com/abu166/tracklens.git
+git clone https://github.com/serzhanamina05/tracklens.git
 ```
 
 ```bash
